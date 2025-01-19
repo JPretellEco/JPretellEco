@@ -4,7 +4,8 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
 
-<img align="right" width="250px" height="200px" alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 Este será como un diario personal y académico donde mostraré todos los avances y resoluciones de problemas que enfrente en mi largo camino hacia convertirme en un Científico de Datos con conocimientos fundamentales de Backend. Espero que el repositorio siguiente sea de tu agrado y que cada paso que dé en este camino también te sirva como guía para tu preparación.
 
