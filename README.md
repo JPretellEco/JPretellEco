@@ -14,9 +14,10 @@ Este será como un diario personal y académico donde mostraré todos los avance
   - Complementación en Computación e Informática en CIBERTEC.
 - 🌱 &nbsp; **Conocimientos adicionales**:
   - Fundamentos de Cloud Computing (Universidad Nacional de Ingeniería).
-  - Ciencia de Datos y Big Data (UNI).
-  - Machine Learning y procesamiento de imágenes con OpenCV en Python.
-  - Desarrollo de dashboards interactivos con R Shiny.
+  - Fundamentos de Ciencia de Datos y Big Data (Universidad Nacional de Ingenierìa).
+  - Fundamentos de Machine Learning y procesamiento de imágenes con OpenCV en Python (Universidad Nacional de Ingenierìa).
+- 🌱 &nbsp; **Frameworks màs apegado**:
+  - Scrum 
 
 ## 🚀 **Mis Objetivos**
 1. Convertirme en un Data Scientist Full Stack Developer.
