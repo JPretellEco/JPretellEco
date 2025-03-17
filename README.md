@@ -11,7 +11,6 @@ Este será como un diario personal y académico donde mostraré todos los avance
 
 - 🎓 &nbsp; **Estudios**:
   - Estudiante de Economía en la Universidad Nacional de Trujillo.
-  - Complementación en Computación e Informática en CIBERTEC.
 - 🌱 &nbsp; **Conocimientos adicionales**:
   - Fundamentos de Cloud Computing (Universidad Nacional de Ingeniería).
   - Fundamentos de Ciencia de Datos y Big Data (Universidad Nacional de Ingenierìa).
