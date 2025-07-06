@@ -19,7 +19,7 @@ Este será como un diario personal y académico donde mostraré todos los avance
   - Scrum 
 
 ## 🚀 **Mis Objetivos**
-1. Convertirme en un Data Scientist Full Stack Developer.
+1. Convertirme en un Machine Learning Enginieer.
 2. Desarrollar soluciones innovadoras usando tecnologías como Big Data, Machine Learning y servicios en la nube.
 3. Contribuir a proyectos open-source y crear un impacto positivo en la comunidad de datos.
 
