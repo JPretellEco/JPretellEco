@@ -1,30 +1,43 @@
-<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height="250px" width="100%" /></div>
+<div align="center">
+  <img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height="250px" width="100%" />
+</div>
 
-<h2> Hola, soy Jeffersson Pretell :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
-
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-
-Este será como un diario personal y académico donde mostraré todos los avances y resoluciones de problemas que enfrente en mi largo camino hacia convertirme en un Científico de Datos con conocimientos fundamentales de Backend. Espero que el repositorio siguiente sea de tu agrado y que cada paso que dé en este camino también te sirva como guía para tu preparación.
-
-- 🎓 &nbsp; **Estudios**:
-  - Estudiante de Economía en la Universidad Nacional de Trujillo.
-- 🌱 &nbsp; **Conocimientos adicionales**:
-  - Fundamentos de Cloud Computing (Universidad Nacional de Ingeniería).
-  - Fundamentos de Ciencia de Datos y Big Data (Universidad Nacional de Ingenierìa).
-  - Fundamentos de Machine Learning y procesamiento de imágenes con OpenCV en Python (Universidad Nacional de Ingenierìa).
-- 🌱 &nbsp; **Frameworks màs apegado**:
-  - Scrum 
-
-## 🚀 **Mis Objetivos**
-1. Convertirme en un Machine Learning Enginieer.
-2. Desarrollar soluciones innovadoras usando tecnologías como Big Data, Machine Learning y servicios en la nube.
-3. Contribuir a proyectos open-source y crear un impacto positivo en la comunidad de datos.
+<h2 align="center">Hola, soy Jeffersson Pretell 😊</h2>
 
 ---
-## 🤝 Conversemos, estaré encantado de charlar contigo
+
+## 🧠 Sobre mí
+
+<img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+Este repositorio es mi bitácora personal y académica. Aquí compartiré los avances, desafíos y soluciones que encuentro en mi camino para convertirme en un **Científico de Datos con sólida base en Backend**.  
+Espero que cada paso que documente aquí también te sirva como guía en tu formación.
+
+---
+
+### 🎓 Formación Académica
+- Estudiante de Economía en la **Universidad Nacional de Trujillo**.
+- Formación complementaria en:
+  - Fundamentos de Cloud Computing – UNI.
+  - Ciencia de Datos y Big Data – UNI.
+  - Machine Learning & OpenCV – UNI.
+
+---
+
+### ⚙️ Metodologías que aplico
+- 📌 Scrum
+
+---
+
+## 🚀 Objetivos Profesionales
+
+1. Convertirme en un **Machine Learning Engineer**.
+2. Desarrollar soluciones innovadoras utilizando **Big Data**, **Machine Learning** y **tecnologías en la nube**.
+3. Contribuir con proyectos **open-source** y generar impacto positivo en la comunidad de datos.
+
+---
+
+## 📫 Conecta conmigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jpretell" target="_blank">
@@ -47,7 +60,7 @@ Este será como un diario personal y académico donde mostraré todos los avance
 
 ---
 
-## 📊 Herramientas para Big Data
+## 🧮 Herramientas de Big Data
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)  
@@ -55,14 +68,14 @@ Este será como un diario personal y académico donde mostraré todos los avance
 
 ---
 
-## 📈 Visualización y Consulta de Datos
+## 📊 Visualización y Consulta de Datos
 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
 
-## 🧰 Interfaces Gráficas que Más Utilizo
+## 💻 Entornos y IDEs que utilizo
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -76,10 +89,25 @@ Este será como un diario personal y académico donde mostraré todos los avance
 
 ---
 
-## 🔍 Otros Intereses
+## 🧭 Intereses personales
 
-- Leer sobre economía global, innovación tecnológica y tendencias en Data Science.  
-- Diseñar proyectos en Python que integren automatización y análisis de datos.  
-- Aprender constantemente sobre nuevas tecnologías emergentes como la IA Generativa y soluciones en la nube.
-"""
+- Leer sobre economía global, innovación tecnológica y ciencia de datos.
+- Crear proyectos en Python que resuelvan problemas reales.
+- Investigar tecnologías emergentes como **IA Generativa**, **Data Lakes** y **Desarrollo Full Stack aplicado a datos**.
 
+---
+
+## 📁 Índice de Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| [Tablero-Económico-BCRP](https://github.com/jefferssonds/Tablero-Economico-BCRP-Peru) | Visualización de indicadores económicos del Perú. | Power BI, Python, Pandas |
+| [Análisis de Calidad de Datos](https://github.com/jefferssonds/miniproyectos/tree/main/calidad_datos) | Proyecto para crear datasets sintéticos realistas con CPK entre 1.1 y 1.5. | Python, Minitab, Estadística |
+| [Chatbot Ventas de Peces](https://github.com/jefferssonds/chatbot-ventas-peces) | Chatbot que detecta especies y subespecies en mensajes. | Python, NLP, Excel |
+| [Automatización con WhatsApp](https://github.com/jefferssonds/whatsapp-automation) | Script para envío automático de mensajes por WhatsApp. | Python, Selenium |
+
+---
+
+*Gracias por visitar mi perfil. Estoy siempre abierto a colaborar, compartir ideas o simplemente conversar sobre ciencia, datos y el futuro de la tecnología.*
+
+---
