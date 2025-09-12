@@ -96,18 +96,6 @@ Espero que cada paso que documente aquí también te sirva como guía en tu form
 - Investigar tecnologías emergentes como **IA Generativa**, **Data Lakes** y **Desarrollo Full Stack aplicado a datos**.
 
 ---
-
-## 📁 Índice de Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| [Tablero-Económico-BCRP](https://github.com/jefferssonds/Tablero-Economico-BCRP-Peru) | Visualización de indicadores económicos del Perú. | Power BI, Python, Pandas |
-| [Análisis de Calidad de Datos](https://github.com/jefferssonds/miniproyectos/tree/main/calidad_datos) | Proyecto para crear datasets sintéticos realistas con CPK entre 1.1 y 1.5. | Python, Minitab, Estadística |
-| [Chatbot Ventas de Peces](https://github.com/jefferssonds/chatbot-ventas-peces) | Chatbot que detecta especies y subespecies en mensajes. | Python, NLP, Excel |
-| [Automatización con WhatsApp](https://github.com/jefferssonds/whatsapp-automation) | Script para envío automático de mensajes por WhatsApp. | Python, Selenium |
-
----
-
 *Gracias por visitar mi perfil. Estoy siempre abierto a colaborar, compartir ideas o simplemente conversar sobre ciencia, datos y el futuro de la tecnología.*
 
 ---
